@@ -3,6 +3,10 @@
 ## Description
 This is a simple Discord bot that responds to specific messages in your Discord server/channel.
 
+## Preview
+**1**
+![Images](dcs.png)
+
 ## Features
 - Replies to specific messages with predefined responses.
 - Easy to deploy and use on platforms like repl.it.
